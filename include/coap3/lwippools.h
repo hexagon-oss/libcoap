@@ -30,7 +30,7 @@
 #endif
 
 #ifndef MEMP_NUM_COAPNODE
-#define MEMP_NUM_COAPNODE 5
+#define MEMP_NUM_COAPNODE 10
 #endif
 
 #ifndef MEMP_NUM_COAPPDU
